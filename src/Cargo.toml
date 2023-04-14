@@ -1,0 +1,7 @@
+[package]
+name = "firefox-bookmarks-exporter"
+version = "0.1"
+authors = ["apple-fritter"]
+
+[dependencies]
+rusqlite = "0.27.2"
