@@ -26,3 +26,7 @@ A comparison of the functionality of the Rust implementation and the Bash script
 * `SQLite` Rust crate: The Rust implementation uses the rusqlite crate, which provides a safe and convenient way to interact with SQLite databases in Rust. This crate can be added to the Rust project's dependencies by including it in the project's `Cargo.toml` file.
 
 * `Standard` library: The Rust standard library provides built-in functionality for performing file I/O, string manipulation, and error handling, which are all used in the implementation of the program.
+
+## License
+
+This script is released under the [MIT License](LICENSE).
