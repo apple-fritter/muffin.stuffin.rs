@@ -1,5 +1,5 @@
 # mff-bookmark-egress.rs
-A reinterpretation of my script [mff-bookmark-egress.sh](https://github.com/apple-fritter/mff-bookmark-egress.sh)
+A reinterpretation of my script [mff-bookmark-egress.py](https://github.com/apple-fritter/mff-bookmark-egress.py)
  in Rust which provides more flexibility and user-friendliness, as it allows the user to specify the file paths and offers search and default options. It also uses a more efficient and robust approach by using Rust's built-in `SQLite` library and `standard` library file I/O. Additionally, the Rust implementation provides better error handling and informative error messages to the user.
 
 ## Side-by-side comparison
